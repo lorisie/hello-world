@@ -1,2 +1,3 @@
 # hello-world
-Hello, World ! :)
+Hi, I am Lori! :)
+I am learning coding from scratch.
